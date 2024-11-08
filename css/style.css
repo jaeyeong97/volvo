@@ -23,7 +23,7 @@
 .logo a {
   display: inline-block;
   width: 150px;
-  background-image: url(../img/volvo-logo.jpg);
+  background-image: url(../img/volvo-logo.webp);
   background-position: center;
   background-size: 160px 170px;
   text-indent: -9999px;
@@ -101,14 +101,14 @@
   background-position: center;
 }
 .h_icon .u_icon > a {
-  background-image: url(../img/h-icon-user.png);
+  background-image: url(../img/h-icon-user.webp);
   background-size: 35px 35px;
 }
 .h_icon .s_icon > a {
-  background-image: url(../img/h-icon-search.png);
+  background-image: url(../img/h-icon-search.webp);
 }
 .h_icon .m_icon > a {
-  background-image: url(../img/h-icon-menu.png);
+  background-image: url(../img/h-icon-menu.webp);
 }
 
 /* 헤더 아이콘 유저 */
@@ -548,16 +548,16 @@
   transition: 0.2s;
 }
 #icon_list .il_est a {
-  background-image: url(../img/nav-icon-car.png);
+  background-image: url(../img/nav-icon-car.webp);
 }
 #icon_list .il_cons a {
-  background-image: url(../img/nav-icon-document.png);
+  background-image: url(../img/nav-icon-document.webp);
 }
 #icon_list .il_test a {
-  background-image: url(../img/nav-icon-steeringwheel.png);
+  background-image: url(../img/nav-icon-steeringwheel.webp);
 }
 #icon_list .il_map a {
-  background-image: url(../img/nav-icon-map.png);
+  background-image: url(../img/nav-icon-map.webp);
 }
 #icon_list .il_est a:hover {
   background-color: rgba(116, 116, 116, 0.1);
@@ -753,7 +753,7 @@
 .f_icon_list li a {
   display: inline-block;
   text-indent: -9999px;
-  background-image: url(../img/footer-ico.png);
+  background-image: url(../img/footer-ico.webp);
   background-size: 30px auto;
 }
 .f_icon_list .fi1 a {
@@ -841,23 +841,23 @@
   font-size: 12px;
 }
 .fa1 {
-  background-image: url(../img/footer-mark01.png);
+  background-image: url(../img/footer-mark01.webp);
 }
 .fa2 {
-  background-image: url(../img/footer-mark02.png);
+  background-image: url(../img/footer-mark02.webp);
 }
 .fa3 {
-  background-image: url(../img/footer-mark03.png);
+  background-image: url(../img/footer-mark03.webp);
 }
 .fa4 {
-  background-image: url(../img/footer-mark04.png);
+  background-image: url(../img/footer-mark04.webp);
 }
 .fa5 {
-  background-image: url(../img/footer-mark05.png);
+  background-image: url(../img/footer-mark05.webp);
 }
 .fa6 {
-  background-image: url(../img/footer-mark06.png);
+  background-image: url(../img/footer-mark06.webp);
 }
 .fa7 {
-  background-image: url(../img/footer-mark07.png);
+  background-image: url(../img/footer-mark07.webp);
 }
